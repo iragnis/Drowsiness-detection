@@ -12,7 +12,7 @@ pip install -r requirements.txt
 * !pip install seaborn
 ```
 
-### Output
+### Inference
 ![results (1)](https://user-images.githubusercontent.com/97392797/226870339-07aaecef-f928-4dd6-87d0-d4fa75a18713.png)
 
 ![results1](https://user-images.githubusercontent.com/97392797/226870993-89a00b26-2eef-4e88-98c8-524479e3bc7e.png)
